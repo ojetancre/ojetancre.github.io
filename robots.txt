@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ojetancre.github.io/sitemap
+Sitemap: https://ojetancre.github.io/app/sitemap
+Sitemap: https://ojetancre.github.io/assets/sitemap
+Sitemap: https://ojetancre.github.io/css/sitemap
+Sitemap: https://ojetancre.github.io/includes/sitemap
+Sitemap: https://ojetancre.github.io/item/sitemap
+Sitemap: https://ojetancre.github.io/src/sitemap
